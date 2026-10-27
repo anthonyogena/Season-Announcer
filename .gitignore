@@ -1,0 +1,15 @@
+# Environment variables and secrets
+.env
+*.env
+
+# Maven Build Directory
+target/
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA settings
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
