@@ -43,5 +43,5 @@ DISCORD_TOKEN=your_discord_bot_token_here
 ANNOUNCEMENT_CHANNEL_ID=your_discord_channel_id_here
 
 # Optional (Defaults will be used if omitted)
-SEASON_IMAGE_URL=[https://i.imgur.com/gqmp5WA.jpeg](https://i.imgur.com/gqmp5WA.jpeg)
+SEASON_IMAGE_URL=[https://i.imgur.com/<image_name>.jpeg](https://i.imgur.com/<image_name>.jpeg)
 TIMEZONE=Asia/Manila
